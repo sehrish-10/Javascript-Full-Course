@@ -1,0 +1,31 @@
+/* h1#heading{
+    color:aquamarine;
+    background-color :rgb(75, 106, 44);
+}
+body{
+    background-color: darksalmon;
+
+}
+button{
+    background-color: khaki;
+    color:blueviolet
+} */
+
+
+/* PRACTICE QUESTION 2 */
+ /* .box{
+    height: 100px;
+    width:100px ;
+    border: 1px solid blueviolet;
+    margin: 7px;
+    text-align: center;
+    background-color: aquamarine;
+ } */
+
+ #box{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    color:aliceblue;
+    border:2px solid rgb(150, 29, 29);
+ }
