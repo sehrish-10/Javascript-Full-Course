@@ -8,7 +8,7 @@ divs[1].innerText="Ahmed";
 divs[2].innerText="Ali";
 
 
-// /* // FOR 
+//  // FOR 
 let i=1;
 for(div of divs){
     console.log(div);

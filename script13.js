@@ -4,8 +4,7 @@ newbtn.innerText ="click me!";
 console.log(newbtn);
 
 // now to put the button on screen, we need to first access it.
-//APPEND 
-
+// BEFORE
 
 let div= document.querySelector("div");
-div.append(newbtn)
+div.before(newbtn)

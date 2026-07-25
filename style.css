@@ -22,10 +22,33 @@ button{
     background-color: aquamarine;
  } */
 
- #box{
-    height: 100px;
+  /* #box{
+    height: 250px;
     width: 100px;
     background-color: cornflowerblue;
     color:aliceblue;
     border:2px solid rgb(150, 29, 29);
+ }  */
+
+
+
+ /* PRACTICE QUESTION 2 */
+ /* .content{
+    color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+ }
+ .newclass{
+
+    color:rgb(18, 81, 60);
+    background-color: aqua;
+ } */
+
+
+ div{
+    height:100px;
+    width:100px;
+    background-color: chocolate;
+    color: whitesmoke;
+    border:1px solid black
  }
