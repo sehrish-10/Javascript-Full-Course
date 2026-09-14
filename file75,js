@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h1 id="title">My Website</h1>
+    <p id="text">This is some text.</p>
+
+    <button id="darkBtn">Dark Mode</button>
+
+    <script>
+        const button = document.getElementById("darkBtn");
+
+        button.addEventListener("click", function() {
+            document.body.style.backgroundColor = "black";
+            document.body.style.color = "white";
+        });
+    </script>
+
+</body>
+</html>
